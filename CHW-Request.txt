@@ -1,0 +1,502 @@
+{
+    "trackingNumber": "14729585",
+    "productPackageName": "SignatureChoice",
+    "lastUpdateDateTime": null,
+    "lastDoctorUpdatedDateTime": null,
+    "status": null,
+    "action": "CALCULATE",
+    "patient": {
+        "consumerId": "319293222",
+        "name": {
+            "namePrefix": "",
+            "nameSuffix": "",
+            "generation": null,
+            "firstName": "NAZIFA",
+            "middle": "",
+            "lastName": "SUAREZ"
+        },
+        "addresses": [
+            {
+                "addressType": null,
+                "street1": "123 Main St",
+                "street2": "",
+                "street3": null,
+                "city": "Livonia",
+                "stateCode": "MI",
+                "zipCode": "48154",
+                "zipExtension": null,
+                "countryCode": null,
+                "countyCode": null
+            }
+        ],
+        "phones": [
+            {
+                "phoneType": null,
+                "countryCode": null,
+                "prefix": "555",
+                "number": "5555555",
+                "extension": null
+            }
+        ],
+        "status": null,
+        "relationToSubscriber": "Member",
+        "dateOfBirth": "1986-11-09",
+        "gender": "M",
+        "expandedId": null,
+        "memberPolicyKey": {
+            "clientId": "00101075",
+            "divisionId": "0026",
+            "subscriberConsumerId": "319293222"
+        },
+        "retailMembership": null
+    },
+    "patientSignature": {
+        "indicator": true,
+        "dateSigned": "2023-01-04"
+    },
+    "patientAccountNumber": null,
+    "member": {
+        "consumerId": "319293222",
+        "name": {
+            "namePrefix": "",
+            "nameSuffix": "",
+            "generation": null,
+            "firstName": "NAZIFA",
+            "middle": "",
+            "lastName": "SUAREZ"
+        },
+        "addresses": [
+            {
+                "addressType": null,
+                "street1": "123 Main St",
+                "street2": "",
+                "street3": null,
+                "city": "Livonia",
+                "stateCode": "MI",
+                "zipCode": "48154",
+                "zipExtension": null,
+                "countryCode": null,
+                "countyCode": null
+            }
+        ],
+        "phones": [
+            {
+                "phoneType": null,
+                "countryCode": null,
+                "prefix": "121",
+                "number": "2312311",
+                "extension": null
+            }
+        ],
+        "status": null,
+        "relationToSubscriber": "Member",
+        "dateOfBirth": "1986-11-09",
+        "gender": "M",
+        "expandedId": null,
+        "memberPolicyKey": {
+            "clientId": "00101075",
+            "divisionId": "0026",
+            "subscriberConsumerId": "319293222"
+        },
+        "retailMembership": null
+    },
+    "memberFsaAmount": null,
+    "memberSignature": null,
+    "memberPolicyGroupNumber": null,
+    "memberInsurancePlanProgramName": null,
+    "insuranceTypeCode": "GROUP_HEALTH_PLAN",
+    "otherInsuranceIndicator": false,
+    "otherInsured": null,
+    "serviceLocation": {
+        "providerTaxId": "020677066",
+        "serviceLocationHashCode": null,
+        "serviceLocationSequence": null,
+        "name": "Lumina Vision",
+        "phoneNumber": null,
+        "officeId": null,
+        "identifyingAddress": null,
+        "mailingAddress": {
+            "street1": "1000 N POINT CIR STE 2006",
+            "street2": null,
+            "street3": null,
+            "city": "Johns Creek",
+            "stateCode": "GA",
+            "zipCode": "30022",
+            "zipExtension": "1222",
+            "countryCode": null,
+            "countyCode": null
+        },
+        "physicalAddress": {
+            "street1": "1000 N POINT CIR STE 2006",
+            "street2": null,
+            "street3": null,
+            "city": "Johns Creek",
+            "stateCode": "GA",
+            "zipCode": "30022",
+            "zipExtension": "1222",
+            "countryCode": null,
+            "countyCode": null
+        }
+    },
+    "doctor": {
+        "doctorId": "0",
+        "firstName": "",
+        "lastName": "",
+        "degreeCode": null,
+        "nationalProviderId": "3427080211"
+    },
+    "doctorSignature": {
+        "indicator": true,
+        "dateSigned": null
+    },
+    "doctorAcceptAssignmentIndicator": true,
+    "providerTaxIdType": null,
+    "claimSubmissionReceiptId": null,
+    "claimSubmissionReceiptTimestamp": null,
+    "claimSubmissionReceiptDcn": null,
+    "referringDoctorName": null,
+    "referringDoctorNPI": null,
+    "providerNetworkKey": {
+        "networkId": "VWRK"
+    },
+    "providerNetworkId": "VWRK",
+    "providerOfficeBillingName": "Lumina Vision",
+    "cms1500Diagnoses": [
+        {
+            "position": "A",
+            "diagnosisCode": "H52.4"
+        },
+        {
+            "position": "B",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "C",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "D",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "E",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "F",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "G",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "H",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "I",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "J",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "K",
+            "diagnosisCode": ""
+        },
+        {
+            "position": "L",
+            "diagnosisCode": ""
+        }
+    ],
+    "conditionRelatedTo": null,
+    "illnessInjuryOnsetDate": null,
+    "priorIllnessInjuryOnsetDate": null,
+    "unableToWorkStartDate": null,
+    "unableToWorkEndDate": null,
+    "hospitalizationAdmitDate": null,
+    "hospitalizationReleaseDate": null,
+    "serviceLines": [
+        {
+            "serviceStartDate": "2023-01-04",
+            "serviceEndDate": "2023-01-04",
+            "placeOfServiceCode": "11",
+            "lineNumber": 1,
+            "emergencyIndicator": false,
+            "cptHcpcsCode": "V2020",
+            "modifierCodes": null,
+            "diagnosisPointers": [
+                "A"
+            ],
+            "billedAmount": "99.5",
+            "unitCount": 1,
+            "epsdtIndicator": false,
+            "otherInsuranceAllowedAmount": null,
+            "otherInsurancePaidAmount": null,
+            "otherInsurancePatientPaidAmount": null,
+            "otherInsuranceDeniedNotCoveredReason": null,
+            "serviceLineValidationMessages": null,
+            "insuranceCalculation": null
+        },
+        {
+            "serviceStartDate": "2023-01-04",
+            "serviceEndDate": "2023-01-04",
+            "placeOfServiceCode": "11",
+            "lineNumber": 6,
+            "emergencyIndicator": false,
+            "cptHcpcsCode": "V2220",
+            "modifierCodes": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "diagnosisPointers": [
+                "A"
+            ],
+            "billedAmount": "100",
+            "unitCount": 2,
+            "epsdtIndicator": false,
+            "otherInsuranceAllowedAmount": null,
+            "otherInsurancePaidAmount": null,
+            "otherInsurancePatientPaidAmount": null,
+            "otherInsuranceDeniedNotCoveredReason": null,
+            "serviceLineValidationMessages": null,
+            "insuranceCalculation": null
+        },
+        {
+            "serviceStartDate": "2023-01-04",
+            "serviceEndDate": "2023-01-04",
+            "placeOfServiceCode": "11",
+            "lineNumber": 24,
+            "emergencyIndicator": false,
+            "cptHcpcsCode": "V2200",
+            "modifierCodes": null,
+            "diagnosisPointers": [
+                "A"
+            ],
+            "billedAmount": "60",
+            "unitCount": 2,
+            "epsdtIndicator": false,
+            "otherInsuranceAllowedAmount": null,
+            "otherInsurancePaidAmount": null,
+            "otherInsurancePatientPaidAmount": null,
+            "otherInsuranceDeniedNotCoveredReason": null,
+            "serviceLineValidationMessages": null,
+            "insuranceCalculation": null
+        }
+    ],
+    "patientPaymentAmount": null,
+    "clientFsaIndicator": "N",
+    "clientPopulationCode": "P",
+    "additionalClaimInformationHCFABox19": null,
+    "repairOrReplaceIndicator": false,
+    "medicaidResubmissionCode": null,
+    "originalReferenceNumber": null,
+    "priorAuthorizationNumber": null,
+    "exam": null,
+    "contactLens": null,
+    "dateOfService": "2023-01-04",
+    "legacy2020ClaimNumber": null,
+    "labOrderInformation": {
+        "frameSupplier": "DOCTOR",
+        "frame": {
+            "activeStatus": "Active",
+            "ageGroup": null,
+            "brand": null,
+            "catalogSource": null,
+            "colorCode": null,
+            "dateIntroduced": null,
+            "description": null,
+            "ebuyInd": "NO",
+            "expandedDescription": null,
+            "frameType": null,
+            "genderType": null,
+            "id": null,
+            "images": null,
+            "internalId": null,
+            "keywords": null,
+            "manufacturer": {
+                "description": "Marchon Eyewear",
+                "name": "Marchon Eyewear"
+            },
+            "mappedMaterialId": 0,
+            "material": "ZYL",
+            "materialDescription": null,
+            "name": "NIKE 5002 Gray 0/0/125",
+            "options": [
+                {
+                    "color": {
+                        "code": null,
+                        "description": null,
+                        "hexCode": null,
+                        "name": "GRAY"
+                    },
+                    "ebuyUpc": null,
+                    "image": null,
+                    "internalId": null,
+                    "jobsonProductCode": null,
+                    "retailPrice": null,
+                    "salePrice": null,
+                    "size": {
+                        "a": "15",
+                        "addPower": null,
+                        "b": "16",
+                        "bridge": "14",
+                        "code": null,
+                        "dbl": "14",
+                        "ed": "17",
+                        "eye": "13",
+                        "panto": null,
+                        "shortDescription": "13_15_16_14_125_0_17",
+                        "supportedRx": null,
+                        "temple": "125",
+                        "wrap": null
+                    },
+                    "sku": null,
+                    "upc": "886895296083",
+                    "wholeSalePrice": "49"
+                }
+            ],
+            "productGroupName": null,
+            "rimType": null,
+            "shape": null
+        },
+        "nosePads": null,
+        "lensPrescription": {
+            "sphereRight": "+1.00",
+            "sphereLeft": "+1.00",
+            "cylinderRight": "",
+            "cylinderLeft": "",
+            "axisRight": "",
+            "axisLeft": "",
+            "addRight": "3.75",
+            "addLeft": "3.75",
+            "planoLensSelected": false,
+            "pupillaryDistanceType": "MONOCULAR",
+            "binocularPdDistant": null,
+            "binocularPdNear": null,
+            "monocularPdDistantRight": "36",
+            "monocularPdDistantLeft": "36",
+            "monocularPdNearRight": "34.5",
+            "monocularPdNearLeft": "34.5",
+            "segmentMeasurementType": "BOTTOM_OF_FRAME",
+            "segmentHeightRight": "12",
+            "segmentHeightLeft": "12",
+            "opticalCenterMeasurementType": "BOTTOM_OF_FRAME",
+            "opticalCenterHeightRight": null,
+            "opticalCenterHeightLeft": null,
+            "horizontalPrismRight": null,
+            "horizontalPrismLeft": null,
+            "horizontalPrismDirRight": null,
+            "horizontalPrismDirLeft": null,
+            "verticalPrismRight": null,
+            "verticalPrismLeft": null,
+            "verticalPrismDirRight": null,
+            "verticalPrismDirLeft": null,
+            "thicknessTypeCode": null,
+            "thickness": null,
+            "wrapAngle": null,
+            "pantoscopicTilt": null,
+            "backVertexDistance": null
+        },
+        "lensFinishing": "LAB_FINISHED_LENS",
+        "lens": {
+            "channels": null,
+            "color": null,
+            "createTimestamp": null,
+            "design": null,
+            "designType": null,
+            "externalId": "FL9R",
+            "fittingHeightOrCorridorLength": null,
+            "fittingType": null,
+            "indexValue": 0,
+            "lastUpdateTimestamp": null,
+            "lightFilterBrandDescription": null,
+            "lightFilterIndicator": false,
+            "materialType": {
+                "externalId": "2",
+                "name": "Plastic"
+            },
+            "notPolarized": false,
+            "photochromicBrandDescription": null,
+            "photochromicIndicator": false,
+            "polarized": false,
+            "polarizedBrand": null,
+            "polarizedIndicator": false,
+            "productDescription": null,
+            "requiredArBrandDescription": null,
+            "requiredArIndicator": false,
+            "spectacleLensFormularyAssessment": null,
+            "surfaceType": null,
+            "technicalAddOn": null,
+            "visionType": {
+                "externalId": "1",
+                "name": "Bifocal"
+            },
+            "wrap": null
+        },
+        "pressOnPrism": null,
+        "slabOff": null,
+        "labNumber": "0459",
+        "labs": null,
+        "labSpecialInstructions": {
+            "backsideAntiReflectiveOnly": false,
+            "type": null,
+            "redoOrderNumber": null,
+            "details": null
+        },
+        "oneLens": "",
+        "balanceLens": "",
+        "lensBevel": null,
+        "lensEdge": null,
+        "lensTintColor": null,
+        "lensTintType": null,
+        "lensTintSample": null,
+        "lensTintSamplePercentage": null,
+        "lensAntiReflectiveCoating": null,
+        "lensUltraVioletCoating": null,
+        "lensScratchCoating": null,
+        "lensGlassCoating": null,
+        "lensMirrorSkiCoating": null,
+        "lensBaseCurveRight": null,
+        "lensBaseCurveLeft": null,
+        "lensOversizeGlass": null,
+        "lensOversizePlastic": null,
+        "lensRimlessDrill": null
+    },
+    "patientConditions": {
+        "ageRelatedMacularDegenerationIndicator": false,
+        "arcusIndicator": false,
+        "prediabetesIndicator": false,
+        "diabetesIndicator": false,
+        "diabeticRetinopathyIndicator": false,
+        "glaucomaIndicator": false,
+        "highCholesterolIndicator": false,
+        "hypertensionIndicator": false,
+        "noConditionIndicator": true
+    },
+    "primaryCarePhysicianFormIndicator": false,
+    "visionSavingsStatementIndicator": null,
+    "cobAuthorizationNumber": null,
+    "priorAuthorizationApprovalIndicator": null,
+    "patientEncounterValidationMessages": null,
+    "examServiceIndicator": false,
+    "lensServiceIndicator": true,
+    "frameServiceIndicator": true,
+    "coveredContactLensServiceIndicator": false,
+    "electiveContactLensServiceIndicator": false,
+    "necessaryContactLensServiceIndicator": false,
+    "originatingSystemCode": "P",
+    "clientClassId": "0100",
+    "serviceVerificationValue": null,
+    "includeDoctorServiceReport": false,
+    "includePackingSlipReport": false,
+    "includeWellVisionSavingsReport": false,
+    "doctorServiceReportHtml": null,
+    "packingSlipReportHtml": null,
+    "wellVisionSavingsReportHtml": null,
+    "includeDrCalculations": true
+}
